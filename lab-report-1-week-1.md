@@ -6,14 +6,10 @@
 
 
   
-    
-
-
-
 
 ![Image](pic-week1/vscode.png)
 
-We started from installing the VScode in this [Link](https://code.visualstudio.com/). VScode is basically a source-code editor which will help your development operations.  
+We started from installing the VScode in this [Link](https://code.visualstudio.com/). VScode is basically a source-code editor which will help your development operations. 
 
 
 
